@@ -30,7 +30,7 @@ How to use
 -----------------------
 ```
 ./randomorder -h
-Usage of ./random:
+Usage of ./randomorder:
   -d    Enable debug log
   -f string
         Output to file
@@ -39,6 +39,6 @@ Usage of ./random:
 File description
 -----------------------
 * [README.md](./README.md) : Readme file
-* [random.go](./randomnumber.go) : Main file for this project
-* [random_test.go](./random_test.go) : Unit test for main function
+* [randomorder.go](./randomnumber.go) : Main file for this project
+* [randomorder_test.go](./random_test.go) : Unit test for main function
 
