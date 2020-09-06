@@ -17,11 +17,13 @@ Download
 -----------------------
 * MacOs
 ```
-wget 
+wget https://github.com/debu99/randomorder/releases/download/0.0.1/randomorder_darwin.zip
+unzip randomorder_darwin.zip
 ```
 * Linux
 ```
-wget
+wget https://github.com/debu99/randomorder/releases/download/0.0.1/randomorder_linux.zip
+unzip randomorder_linux.zip
 ```
 
 How to use
