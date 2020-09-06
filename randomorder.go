@@ -53,7 +53,7 @@ func init() {
 		log.SetLevel(log.DebugLevel)
 	} else {
 		// set log to warn level
-		log.SetLevel(log.WarnLevel)
+		log.SetLevel(log.InfoLevel)
 	}
 	if f != "" {
 		file, err := os.OpenFile(f, os.O_CREATE|os.O_APPEND|os.O_WRONLY, 0666)
