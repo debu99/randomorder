@@ -40,5 +40,5 @@ File description
 -----------------------
 * [README.md](./README.md) : Readme file
 * [randomorder.go](./randomnumber.go) : Main file for this project
-* [randomorder_test.go](./random_test.go) : Unit test for main function
+* [randomorder_test.go](./randomnumber_test.go) : Unit test for main function
 
