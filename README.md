@@ -2,6 +2,13 @@
 -----------------------
 This project is used to create number from 1 to t 10 in random order
 
+
+Test
+-----------------------
+```
+go test -v
+```
+
 Build
 -----------------------
 * To run under MacOs
