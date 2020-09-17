@@ -13,10 +13,12 @@ Build
 -----------------------
 * To run under MacOs
 ```
+go get -v
 go build 
 ```
 * To run under Linux
 ```
+go get -v
 CC=x86_64-linux-musl-gcc CXX=x86_64-linux-musl-g++ GOARCH=amd64 GOOS=linux CGO_ENABLED=1 go build -ldflags "-linkmode external -extldflags -static"
 ```
 
